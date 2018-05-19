@@ -7,6 +7,7 @@ import java.util.Set;
 
 @Entity
 public class Author {
+//Ceci est un commentaire
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
